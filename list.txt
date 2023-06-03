@@ -12,3 +12,9 @@ samsung-com.112.2o7.net
 bdapi-in-ads.realmemobile.com
 api.mouseflow.com
 adm.hotjar.com
+adsrvr.org
+flashtalking.com
+ads30.adcolony.com
+adc3-launch.adcolony.com
+adcolony.com
+sessions.bugsnag.com
