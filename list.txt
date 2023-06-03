@@ -1,0 +1,14 @@
+cdn.luckyorange.com
+api.luckyorange.com
+realtime.luckyorange.com
+browser.sentry-cdn.com
+business-api.tiktok.com
+udcm.yahoo.com
+appmetrica.yandex.ru
+adserver.unityads.unity3d.com
+grs.hicloud.com
+advertising.apple.com
+samsung-com.112.2o7.net
+bdapi-in-ads.realmemobile.com
+api.mouseflow.com
+adm.hotjar.com
